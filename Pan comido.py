@@ -1,2 +1,3 @@
 print("hola Romà")
-print("Hol Erik")
+print("hola")
+print("1+2+3")
